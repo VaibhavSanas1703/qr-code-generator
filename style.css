@@ -104,3 +104,18 @@ button ion-icon{
 #loader.toggle-load{
    opacity: 1;
 }
+
+@media only screen and (max-width:500px){
+   .qr-container{
+      width: 95%;
+   }
+
+   .show-qr{
+      width: 95%;
+   }
+
+   .show-qr img{
+      width: 70%;
+   }
+}
+
